@@ -33,7 +33,7 @@ To learn more, read the [configuration file's wiki page](https://github.com/Angr
 
 ```bash
 # Clone the repository
-git clone https://github.com/AngrySnout/SauerTracker
+git clone https://github.com/2-bithacker/SauerTracker
 cd SauerTracker
 # Install the dependencies
 npm install
@@ -67,7 +67,7 @@ npm stop
 
 ```bash
 # Clone the repository
-git clone https://github.com/AngrySnout/SauerTracker
+git clone https://github.com/2-bithacker/SauerTracker
 cd SauerTracker
 # Start SauerTracker
 docker-compose up -d
